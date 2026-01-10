@@ -1,9 +1,25 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3CE0&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Adwaitha;B.Tech+3rd+Year+CSE+Student" />
 </h1>
-# 💫 About Me:
-🔭 I’m currently working on<br>Improving my programming skills and building small projects related to software development, data handling, and cybersecurity.<br><br>👯 I’m looking to collaborate on<br>Student projects, coding challenges, and beginner-friendly open-source contributions.<br><br>🤝 I’m looking for help with<br>Understanding real-world applications of programming, system design, and how to write clean, efficient code.<br><br>🌱 I’m currently learning<br>Data structures, machine learning basics, computer networks, and modern programming tools.<br><br>💬 Ask me about<br>Python, C/C++, Java, basic web technologies, SQL, and how to get started with technical projects.<br><br>⚡ Fun fact<br>I like learning new technologies by experimenting and figuring things out step by step.
+# 💫 About Me
 
+🔭 **I’m currently working on**  
+Improving my programming skills and building small projects related to software development, data handling, and cybersecurity.
+
+👯 **I’m looking to collaborate on**  
+Student projects, coding challenges, and beginner-friendly open-source contributions.
+
+🤝 **I’m looking for help with**  
+Understanding real-world applications of programming, system design, and how to write clean, efficient code.
+
+🌱 **I’m currently learning**  
+Data structures, machine learning basics, computer networks, and modern programming tools.
+
+💬 **Ask me about**  
+Python, C/C++, Java, basic web technologies, SQL, and how to get started with technical projects.
+
+⚡ **Fun fact**  
+I like learning new technologies by experimenting and figuring things out step by step.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.adwaithaaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaitha-satheesh-2aa999367) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satheeshadwaitha@gmail.com) 
