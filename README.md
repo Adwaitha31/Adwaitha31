@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3CE0&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Adwaitha;B.Tech+3rd+Year+CSE+Student" />
+</h1>
 # 💫 About Me:
 🔭 I’m currently working on<br>Improving my programming skills and building small projects related to software development, data handling, and cybersecurity.<br><br>👯 I’m looking to collaborate on<br>Student projects, coding challenges, and beginner-friendly open-source contributions.<br><br>🤝 I’m looking for help with<br>Understanding real-world applications of programming, system design, and how to write clean, efficient code.<br><br>🌱 I’m currently learning<br>Data structures, machine learning basics, computer networks, and modern programming tools.<br><br>💬 Ask me about<br>Python, C/C++, Java, basic web technologies, SQL, and how to get started with technical projects.<br><br>⚡ Fun fact<br>I like learning new technologies by experimenting and figuring things out step by step.
 
@@ -32,6 +35,4 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adwaitha31&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+
