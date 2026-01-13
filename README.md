@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3CE0&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I%27m+Adwaitha;B.Tech+3rd+Year+CSE+Student;Future+Software+Engineer" />
-</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
@@ -13,8 +11,7 @@
 🎓 I’m a **B.Tech Computer Science student at Amrita Vishwa Vidyapeetham** who loves building systems that solve real-world problems.  
 I enjoy working across **software development, cybersecurity, blockchain, edge computing, and data-driven systems**.
 
-💡 I learn best by **experimenting, building, breaking, and fixing things** — which is why most of my learning comes from projects rather than just theory.
-
+💡 I learn best by **experimenting, building, breaking, and fixing things**
 🌱 Currently exploring **data structures, machine learning, networks, and modern development tools**.
 
 ---
@@ -68,8 +65,6 @@ An embedded system that converts **real-time gyroscope orientation** into **gest
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
-</p>
+
 
 <h3 align="center">✨ Turning ideas into systems, one line of code at a time ✨</h3>
