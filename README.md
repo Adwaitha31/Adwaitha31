@@ -67,4 +67,4 @@ An embedded system that converts **real-time gyroscope orientation** into **gest
 
 
 
-<h3 align="center">✨ Turning ideas into systems, one line of code at a time ✨</h3>
+<h3 align="center">✨ Keep Learning, building, and improving ✨</h3>
