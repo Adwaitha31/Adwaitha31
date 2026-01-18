@@ -52,9 +52,7 @@ An embedded system that converts **real-time gyroscope orientation** into **gest
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/_.adwaithaaa._">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+ 
   <a href="https://linkedin.com/in/adwaitha-satheesh-2aa999367">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
