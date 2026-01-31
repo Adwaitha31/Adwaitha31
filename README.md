@@ -1,18 +1,22 @@
+## 👋 Hi, I’m Adwaitha
 
+🎓 I’m a **B.Tech Computer Science student at Amrita Vishwa Vidyapeetham** who loves building systems that solve real-world problems.  
+I enjoy working across **software development, cybersecurity, blockchain, edge computing, and data-driven systems**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
+💡 I learn best by **experimenting, building, breaking, and fixing things**  
+🌱 Currently exploring **data structures, machine learning, networks, and modern development tools**.
 
 ---
 
 ## 💫 About Me
 
-🎓 I’m a **B.Tech Computer Science student at Amrita Vishwa Vidyapeetham** who loves building systems that solve real-world problems.  
-I enjoy working across **software development, cybersecurity, blockchain, edge computing, and data-driven systems**.
-
-💡 I learn best by **experimenting, building, breaking, and fixing things**
+💡 I learn best by **experimenting, building, breaking, and fixing things** 
 🌱 Currently exploring **data structures, machine learning, networks, and modern development tools**.
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
 ---
 
@@ -52,7 +56,6 @@ An embedded system that converts **real-time gyroscope orientation** into **gest
 ## 🌐 Connect With Me
 
 <p align="center">
- 
   <a href="https://linkedin.com/in/adwaitha-satheesh-2aa999367">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -63,6 +66,4 @@ An embedded system that converts **real-time gyroscope orientation** into **gest
 
 ---
 
-
-
-<h3 align="center">✨ Keep Learning, building, and improving ✨</h3>
+<h3 align="center">✨ Keep learning, building, and improving ✨</h3>
