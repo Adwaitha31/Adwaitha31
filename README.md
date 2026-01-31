@@ -8,12 +8,6 @@ I enjoy working across **software development, cybersecurity, blockchain, edge c
 
 ---
 
-## 💫 About Me
-
-💡 I learn best by **experimenting, building, breaking, and fixing things** 
-🌱 Currently exploring **data structures, machine learning, networks, and modern development tools**.
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
